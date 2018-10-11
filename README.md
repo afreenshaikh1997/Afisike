@@ -16,7 +16,7 @@ Out of 5000 calls of high priority, 3000 were classified to be received from Kol
 Out of 3000 calls of medium priority, 2000 were classified to be received from Kolkata and 1000 from Durgapur
 Out of 2000 calls of low priority, 500 were classified to be received from Kolkata and 1500 from Durgapur
 
-now the value for Kolkata would be = (3000 * 5 + 2000 * 3 + 500 * 2) / 10000 = 2.2
-and the value for Durgapur would be = (2000 * 5 + 1000 * 3 + 1500 * 2) / 10000 = 1.6
+Now the value for Kolkata would be = (3000 * 5 + 2000 * 3 + 500 * 2) / 10000 = 2.2. 
+And the value for Durgapur would be = (2000 * 5 + 1000 * 3 + 1500 * 2) / 10000 = 1.6.
 
 Based on these results, we could understand that support and attention to Kolkata is of more importance.
